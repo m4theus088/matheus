@@ -9,12 +9,12 @@ h1{
     background: blue;
     color: whitesmoke;
 }
-Estilizar os parágrafos
+
 p{
 color:blue ;
 font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
 font-size: 100px;
-background:black ;
+background:rgb(128, 67, 67) ;
 color: white;
 text-align: center;
 }
